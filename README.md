@@ -20,8 +20,7 @@ de esta pagina  se destaca la obtencion de la siguiente informacion:
 La metodologia utilizada para la obtencion de la informacion, fue mediante lo visto en clases, en primer lugar esta el *titulo de la pelicula y su año* , donde mediante comandos de **htlml_read** y **html_nodes**  se obtuvieron los distintos titulos que segun los usarios de **Filmafinity** son los mejores donde destacan:
 
 -  El padrino  (1972)   
-- 
- El Padrino: Parte II  (1974)
+- El Padrino: Parte II  (1974)
 - 12 hombres en pugna  (1957)  
 - La lista de Schindler  (1993)   
 - Testigo de cargo  (1957) 
