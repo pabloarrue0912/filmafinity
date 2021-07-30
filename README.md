@@ -2,8 +2,8 @@
 # FILMAFINITY
 
 Repositorio creado para la obtecion de informacion de la pagina web **Filmafinity** si quieres saber mas de esta pagina puedes hacer click [aqui](https://www.filmaffinity.com/cl/topgen.php?genre=&fromyear=&toyear=&country=&nodoc&notvse "aqui"), la pagina fue elegida en base a la informacion que el grupo en su conjunto queria obtener, es por este motivo que elegimos filmafinity ya que nos permitia comprobar cuales eran los top de peliculas segun las criticas de expertos y de usuarios.
+Luego de definir nuestra pagina web con la cual queremos trabajar podremos obtener la siguiente informacion la cual nos permitira realizar nuestro trabajo.
 
-de esta pagina  se destaca la obtencion de la siguiente informacion:
 
 - 
 *Titulo de la pelicula y año*
