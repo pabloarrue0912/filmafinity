@@ -2,15 +2,15 @@
 # FILMAFINITY
 
 Repositorio creado para la obtecion de informacion de la pagina web **Filmafinity** si quieres saber mas de esta pagina puedes hacer click [aqui](https://www.filmaffinity.com/cl/topgen.php?genre=&fromyear=&toyear=&country=&nodoc&notvse "aqui"), la pagina fue elegida en base a la informacion que el grupo en su conjunto queria obtener, es por este motivo que elegimos filmafinity ya que nos permitia comprobar cuales eran los top de peliculas segun las criticas de expertos y de usuarios.
-Luego de definir nuestra pagina web con la cual queremos trabajar podremos obtener la siguiente informacion la cual nos permitira realizar nuestro trabajo.
+Luego de definir nuestra pagina web con la cual queremos trabajar podremos obtener la siguiente informacion la cual nos permitira realizar nuestro trabajo, donde destaca lo siguiente.
 
 
 - 
 *Titulo de la pelicula y año*
 - 
-*Director de la pelicula*,
+*Director de la pelicula*
 - 
-*Notas promedio de lo usarios de filmafinity a la pelicula*,
+*Notas promedio de lo usarios de filmafinity a la pelicula*
 - 
 *Link de la pelicula* 
 - 
@@ -38,10 +38,13 @@ Estos promedios estan en base a las distintas notas que los usuarios de *filmafi
 El link de la pelicula es netamente lo que dice su nombre, es el link que nos llevara directo a cada pagina de la siguiente manera [El padrino](https://www.filmaffinity.com/cl/film809297.html "El padrino"), y asi con todas las peliculas que se encuentran en el top.
 
 #### Reviews
-Esto se obtuvo desde la pagina web, donde directamente nos mostraba la cantidad de reviews y votaciones que otorgaban los usuarios a las distintas peliculas del top.
+Las reviews, como lo dice su nombre es la cantidad de reviews que los usuarios de filmafinity le realizaron a las peliculas, estos datos fueron extraidos mediante **htlml_nodes** con estos numeros podemos observar la cantidad de personas que puntuaron las distintas peliculas.
+
 
 #### Conclusiones filmafinity
 En conclusion, filmafinity es una pagina amigable y su uso es bastante facil para la mayoria de los usuarios que quisieran saber mas sobre que peliculas podrian ver, un punto debil de esta pagina, es que las notas no son otorgado por personas expertas en cine, si no que son otorgados por los mimos usuarios, por lo cual el peso del top de estas peliculas no tendria tanto peso en comparacion con otras medidas de distintas paginas.
+Por otro lado tambien se pueden obtener dentro de la misma pagina web top por cada pais, de peliculas, series u otros interes al gusto del usuario.
+
 
 
 
